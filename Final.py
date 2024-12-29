@@ -1,8 +1,3 @@
-# Mike Vergil
-# CSCI 128 Section L
-# Final Project
-# PS4 Games
-
 # imports
 import csv, matplotlib.pyplot as plt
 
